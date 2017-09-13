@@ -4,6 +4,8 @@
 
 [hourglass torch lua](https://github.com/anewell/pose-hg-train)
 
+[Base Network](https://github.com/kuangliu/pytorch-cifar)
+
 # Comparision between torch, tensorflow and mxnet
 
 ### torch lua
