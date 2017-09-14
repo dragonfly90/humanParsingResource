@@ -6,6 +6,10 @@
 
 [Base Network](https://github.com/kuangliu/pytorch-cifar)
 
+[keypoint detection](https://github.com/ox-vgg/keypoint_detection)
+
+[deepcut-cnn](https://github.com/eldar/deepcut-cnn)
+
 # Comparision between torch, tensorflow and mxnet
 
 ### torch lua
