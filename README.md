@@ -10,6 +10,8 @@
 
 [deepcut-cnn](https://github.com/eldar/deepcut-cnn)
 
+[pose-tensorflow](https://github.com/eldar/pose-tensorflow)
+
 # Comparision between torch, tensorflow and mxnet
 
 ### torch lua
