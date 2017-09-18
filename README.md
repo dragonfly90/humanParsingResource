@@ -1,5 +1,7 @@
 # humanParsingResource
 
+[Structured Attentions for Visual Question Answering](https://github.com/zhuchen03/vqa-sva)
+
 [Multi-Context Attention for Human Pose Estimation](https://github.com/bearpaw/pose-attention)
 
 [hourglass tensorflow](https://github.com/wbenbihi/hourglasstensorlfow)
