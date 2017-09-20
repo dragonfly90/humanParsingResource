@@ -4,11 +4,13 @@
 
 [Multi-Context Attention for Human Pose Estimation](https://github.com/bearpaw/pose-attention)
 
+[Associative Embedding](https://github.com/jiadeng/pose-ae-demo)
+
 [hourglass tensorflow](https://github.com/wbenbihi/hourglasstensorlfow)
 
 [hourglass torch lua](https://github.com/anewell/pose-hg-train)
 
-[Base Network](https://github.com/kuangliu/pytorch-cifar)
+[pytorch-cifar Base Network](https://github.com/kuangliu/pytorch-cifar)
 
 [keypoint detection](https://github.com/ox-vgg/keypoint_detection)
 
