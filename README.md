@@ -18,6 +18,13 @@
 
 [pose-tensorflow](https://github.com/eldar/pose-tensorflow)
 
+
+## Detection by pictorial structure
+
+[VOC-DPM](https://github.com/rbgirshick/voc-dpm)
+
+[PartsBasedDetector](https://github.com/wg-perception/PartsBasedDetector)
+
 # Comparision between torch, tensorflow and mxnet
 
 ### torch lua
