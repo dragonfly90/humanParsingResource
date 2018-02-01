@@ -18,6 +18,9 @@
 
 [pose-tensorflow](https://github.com/eldar/pose-tensorflow)
 
+## Benchmarking and Error Diagnosis
+
+http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/#resources
 
 ## Detection by pictorial structure
 
