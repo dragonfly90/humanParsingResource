@@ -18,6 +18,8 @@
 
 [pose-tensorflow](https://github.com/eldar/pose-tensorflow)
 
+[RMPE: Regional Multi-person Pose Estimation](https://github.com/MVIG-SJTU/AlphaPose)
+
 ## Benchmarking and Error Diagnosis
 
 http://www.vision.caltech.edu/~mronchi/projects/PoseErrorDiagnosis/#resources
