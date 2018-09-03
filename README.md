@@ -1,7 +1,3 @@
-
-Liang is working on bringing capsule idea (matrix capsules with em routing: https://openreview.net/pdf?id=HJWLfGWRb) into our previous paper "Face Detection with End-to-End Integration of a
-ConvNet and a 3D Model"(https://arxiv.org/pdf/1606.00850.pdf). He plans to take the oral in Spring 2019 and defend in Fall 2019. He works in SAS in the fifth and sixth semester ans SAS paid his tuition. Thank you! 
-
 # humanParsingResource
 
 [Structured Attentions for Visual Question Answering](https://github.com/zhuchen03/vqa-sva)
